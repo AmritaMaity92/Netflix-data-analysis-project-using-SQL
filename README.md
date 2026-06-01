@@ -39,5 +39,3 @@ Business insight generation from datasets
 
 
 
-Genre (Listed In)
-Description
